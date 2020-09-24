@@ -84,6 +84,7 @@ tr{
   text-align: center;
   border-top: 2px solid #000000;
   padding: 10px;
+  border-right: 2px solid #000000;
 }
 
 tr:nth-child(even) {background-color: #D1D1D1;}
@@ -97,7 +98,6 @@ tr:nth-child(odd) {background-color: }
 
 thead tr:first-child th:first-child{
   text-transform: uppercase;
-  border-right: 2px solid #000000;
 }
 
 footer{
