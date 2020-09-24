@@ -78,7 +78,7 @@ tr{
 }
 
 tr:nth-child(even) {background-color: #D1D1D1;}
-tr:nth-child(odd) {opacity: 0.1}
+tr:nth-child(odd) {background-color: }
 
 *:focus{
   border-style: dashed;
