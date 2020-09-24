@@ -27,7 +27,7 @@ main{
 }
 
 h1{
-  color: #c12258;
+  color:  #B21F50;
   font-size: 2em;
   text-align: center;
   line-height: 2;
@@ -67,6 +67,7 @@ table{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   text-align: center;
+  vertical-align: middle;
   border-collapse: collapse;
 }
 
