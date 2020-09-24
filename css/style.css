@@ -49,20 +49,19 @@ a{
 
 table{
     border-top: 2px solid #000000;
-    
 }
 
 .colhead{
   min-width: 125px;
   padding: 10px;
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   vertical-align: center;
   text-align: center;
 }
 
 .rowhead{
-
+  border-top: 2px solid #000000;
 }
 
 td{
@@ -75,12 +74,16 @@ tr{
 
 *:focus{
   border-style: dashed;
-  border-width: 3px
+  border-color:  #417243;
+  border-width: 3px;
 }
 
-thead tr:first-child th:first-child{}
+thead tr:first-child th:first-child{
+
+}
 
 footer{
+  min-height: 75px;
   width:100%;
   background:#000000;
   text-align:center;
