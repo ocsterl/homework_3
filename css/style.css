@@ -112,7 +112,7 @@ thead tr:last-child th:first-child{
   border-top-left-radius: 10px;
 }
 
-thead tr:last-child th:first-child{
+thead tr:last-child th:last-child{
   border-top-right-radius: 10px;
 }
 
