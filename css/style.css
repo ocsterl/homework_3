@@ -63,13 +63,13 @@ table.center {
   background-color: #7e0820;
   color: #FFFFFF;
   vertical-align: center;
-  text-align: middle;
 }
 
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   text-align: center;
+  text-align: middle;
 }
 
 thead{
