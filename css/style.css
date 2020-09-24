@@ -51,7 +51,6 @@ a{
 table{
     border-top: 2px solid #000000;
     border-collapse: collapse;
-
 }
 
 table.center {
@@ -64,13 +63,13 @@ table.center {
   padding: 10px;
   background-color: #7e0820;
   color: #FFFFFF;
-  vertical-align: center;
+  vertical-align: middle;
 }
 
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
-  text-align: middle;
+  text-align: center;
 }
 
 thead{
@@ -80,7 +79,7 @@ thead{
 td{
   text-align: center;
   border-top: 2px solid #000000;
-  padding: 15px;
+  padding: 10px;
 }
 
 tr{
