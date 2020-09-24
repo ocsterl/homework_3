@@ -104,11 +104,22 @@ thead tr:first-child th:first-child{
   border-top-left-radius: 10px;
 }
 
+tbody tr:nth-child(even):hover {
+  background-color: rgba(126, 8, 32, .25);
+}
+
+tbody tr:nth-child(odd):hover {
+  background-color: rgba(126,8, 32, .25)
+}
+
 footer{
-  min-height: 75px;
   width:100%;
+  min-height: 75px;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
 }
 
