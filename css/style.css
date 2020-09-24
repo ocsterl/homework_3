@@ -66,10 +66,14 @@ table{
 
 td{
   text-align: center;
+  border-top: 2px solid #000000;
+  padding: 10px;
 }
 
 tr{
   text-align: center;
+  border-top: 2px solid #000000;
+  padding: 10px;
 }
 
 *:focus{
