@@ -64,6 +64,7 @@ table{
   border-top: 2px solid #000000;
 }
 
+
 td{
   text-align: center;
   border-top: 2px solid #000000;
@@ -75,6 +76,9 @@ tr{
   border-top: 2px solid #000000;
   padding: 10px;
 }
+
+tr:nth-child(even) {background-color: #D1D1D1;}
+tr:nth-child(odd) {opacity: 0.1}
 
 *:focus{
   border-style: dashed;
