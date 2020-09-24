@@ -68,7 +68,6 @@ table.center {
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
-  text-align: center;
   text-align: middle;
 }
 
@@ -83,7 +82,7 @@ td{
 }
 
 tr{
-  text-align: center;
+  text-align: middle;
   border-top: 2px solid #000000;
   padding: 10px;
   border-right: 2px solid #000000;
