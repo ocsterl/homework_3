@@ -65,11 +65,11 @@ table{
 }
 
 td{
-  
+  text-align: center;
 }
 
 tr{
-
+  text-align: center;
 }
 
 *:focus{
