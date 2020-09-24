@@ -18,7 +18,7 @@ body{
   background-image: url(pigeon-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
-
+  background-color: #DDDDDD;
 }
 
 main{
@@ -48,12 +48,17 @@ a{
 }
 
 table{
-    border: 2px solid #000000;
+    border-top: 2px solid #000000;
+    
 }
 
 .colhead{
+  min-width: 125px;
+  padding: 10px;
   background-color: #7e0830;
   color: #FFFFFF;
+  vertical-align: center;
+  text-align: center;
 }
 
 .rowhead{
