@@ -92,7 +92,7 @@ tr:nth-child(odd) {background-color: }
 }
 
 thead tr:first-child th:first-child{
-
+  text-transform: uppercase;
 }
 
 footer{
